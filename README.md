@@ -40,12 +40,12 @@ ${Asg-Aod}
     │    └── graph_labels.txt
     │    └── node_labels.txt
     │    └── node_attributes.txt
-	├── rawdata
-	      ├── UBA1_3ss
-	    		  └── generation_data_batch
-	    		  └── session_node
-	    		  └── user_0
-	    		  └── user_1
+    ├── rawdata
+	 ├── UBA1_3ss
+	        └── generation_data_batch
+	        └── session_node
+	        └── user_0
+	        └── user_1
 
 ```
 * graph_A.txt (m lines):sparse (block diagonal) adjacency matrix for all graphs,
@@ -68,21 +68,21 @@ The tools for extracting graph features (vectors) are as follows:
 ```
 ${Asg-Aod}
 ├── graph_construction
-			├── user1
-			│		└── 1.build_folder.py
-			│		└── 2.session_feature.py
-			│		└── 3.graph_data.py 
-			│		└── 4.all_graph.py
-			├── user2
-			│		└── 1.build_folder.py
-			│		└── 2.session_feature.py
-			│		└── 3.graph_data.py 
-			│		└── 4.all_graph.py
-			├── user3
-					└── 1.build_folder.py
-					└── 2.session_feature.py
-					└── 3.graph_data.py 
-					└── 4.all_graph.py
+	├── user1
+	│     └── 1.build_folder.py
+	│     └── 2.session_feature.py
+	│     └── 3.graph_data.py 
+	│     └── 4.all_graph.py
+	├── user2
+	│     └── 1.build_folder.py
+	│     └── 2.session_feature.py
+	│     └── 3.graph_data.py 
+	│     └── 4.all_graph.py
+	├── user3
+	      └── 1.build_folder.py
+	      └── 2.session_feature.py
+	      └── 3.graph_data.py 
+	      └── 4.all_graph.py
 ```
 
 ```
