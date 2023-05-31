@@ -1,0 +1,8 @@
+operation,Non-working days,Working_days non-working_hours,Working_days working_hours,activity_logon,url,http_num,activity_device,device_num,session_indicator,targets,graph_indicator
+logon,0,1,0,1,0,0,0,0,7784,1,7784
+device,3,3,3,3,3,0,1,0,7784,1,7784
+http,1,1,1,1,1,0,1,0,7784,1,7784
+device,3,3,3,3,3,0,0,0,7784,1,7784
+http,1,1,1,1,0,0,1,0,7784,1,7784
+logon,0,0,0,0,0,0,0,0,7784,1,7784
+5,5,5,5,5,5,1,5,2,7784,1,7784

@@ -1,0 +1,16 @@
+operation,Non-working days,Working_days non-working_hours,Working_days working_hours,activity_logon,url,http_num,activity_device,device_num,session_indicator,targets,graph_indicator
+logon,0,1,0,1,0,0,0,0,7622,0,7622
+device,3,3,3,3,3,0,1,0,7622,0,7622
+file,4,4,4,4,4,0,4,0,7622,0,7622
+file,4,4,4,4,4,0,4,0,7622,0,7622
+file,4,4,4,4,4,0,4,0,7622,0,7622
+file,4,4,4,4,4,0,4,0,7622,0,7622
+file,4,4,4,4,4,0,4,0,7622,0,7622
+file,4,4,4,4,4,0,4,0,7622,0,7622
+file,4,4,4,4,4,0,4,0,7622,0,7622
+file,4,4,4,4,4,0,4,0,7622,0,7622
+file,4,4,4,4,4,0,4,0,7622,0,7622
+device,3,3,3,3,3,0,0,0,7622,0,7622
+http,1,1,1,1,0,0,1,0,7622,0,7622
+logon,0,0,0,0,0,0,0,0,7622,0,7622
+5,5,5,5,5,5,0,5,2,7622,0,7622
